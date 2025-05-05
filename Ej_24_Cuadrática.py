@@ -3,7 +3,7 @@ def cuadrática(a , b , c): #Definimos la función
     discriminante = b**2 - 4*a*c #Con el discriminante podemos hayar si una ecuación cuadrática tiene solución o no en los numeros reales
     raizDiscriminante = discriminante ** 0.5
     if discriminante < 0: #Condicional si no hay solución
-        print ("==== Resultados ====\033[31mNo hay solución en los números reales\033[0m")
+        print ("==== Resultados ====\033\n[31mNo hay solución en los números reales\033[0m")
     else: 
         x1 = (-b + raizDiscriminante) / (2 * a) #Ecuación cuadrática
         x2 = (-b - raizDiscriminante) / (2 * a)

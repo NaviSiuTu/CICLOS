@@ -4,6 +4,6 @@ def AlgoritmoDeEuclides(a , b): #Definición de función
         a, b = b, a % b #Algoritmo de euclides
     return a #Resultado (mcd cuando b valga 0)
 
-a = int(input("Bienvenido al Algoritmo de Euclides\nIntroduce un numero: "))
+a = int(input("\033[35m==== Bienvenido al Algoritmo de Euclides ====\n==== DATOS ====\033[0m\nIntroduce un numero: "))
 b = int(input("Introduce el segundo numero: ")) #Interacción del usuario con consola
-print (f"El mcd entre {a} y {b} es {AlgoritmoDeEuclides(a , b)}") #Impresión del mcd mediante algoritmo de Euclides
+print (f"\033[35m==== MCD ==== \033[0m\nEl mcd entre {a} y {b} es {AlgoritmoDeEuclides(a , b)}") #Impresión del mcd mediante algoritmo de Euclides
