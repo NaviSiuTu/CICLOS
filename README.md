@@ -27,8 +27,8 @@ todos los número impares menores que él.
 
   SOLUCIÓN:
 
-     ![image](https://github.com/user-attachments/assets/b4803de1-a6d7-49a4-a256-23a5751d6946)
-     ![image](https://github.com/user-attachments/assets/8ee53653-a84a-4f41-b334-dd387edd1539)
+![image](https://github.com/user-attachments/assets/b4803de1-a6d7-49a4-a256-23a5751d6946)
+![image](https://github.com/user-attachments/assets/8ee53653-a84a-4f41-b334-dd387edd1539)
 
     
 
@@ -40,7 +40,7 @@ desde teclado.
 
   SOLUCIÓN:
   
-    ![image](https://github.com/user-attachments/assets/1aaa73c5-f319-4bd9-a003-b5f3d3da77c0)
+![image](https://github.com/user-attachments/assets/1aaa73c5-f319-4bd9-a003-b5f3d3da77c0)
 
 _____________________________________________________________________________________________
 
@@ -51,10 +51,10 @@ imprimirán en pantalla.
   SOLUCIÓN:
     
     EN CASO DE QUE LA CUADRÁTICA NO TENGA SOLUCIÓN EN LOS NUMEROS REALES:
-    ![image](https://github.com/user-attachments/assets/5df28c0a-95b0-405f-82a2-5c2c5e73a2e7)
+![image](https://github.com/user-attachments/assets/5df28c0a-95b0-405f-82a2-5c2c5e73a2e7)
 
     EN CASO DE QUE LA CUADRÁTICA SI TENGA SOLUCIÓN EN LOS NUMEROS REALES:
-    ![image](https://github.com/user-attachments/assets/41d34526-cd25-4da7-a56d-ad99fdb09f66)
+![image](https://github.com/user-attachments/assets/41d34526-cd25-4da7-a56d-ad99fdb09f66)
 
 
 
