@@ -5,20 +5,36 @@
 PROBLEMA 18: Escribir un programa en Java que lea un número entero desde teclado y realiza la
 suma de los 100 número siguientes, mostrando el resultado en pantalla.
 
+  SOLUCIÓN:
+![image](https://github.com/user-attachments/assets/fd2c291c-88c6-4dee-a8f3-a3f4322ad57b)
+
 _____________________________________________________________________________________________
 
 PROBLEMA 19: Escribir un programa en Java que convierta de euros a dólares. Recibirá un número
 decimal correspondiente a la cantidad en euros y contestará con la cantidad
 correspondiente en dolares.
+
+   SOLUCIÓN:
+![image](https://github.com/user-attachments/assets/10e57492-2e1d-45c6-b1cb-58dfa5d0f67c)
+
 _____________________________________________________________________________________________
 
 PROBLEMA 20: Escribir un programa en Java que calcule el área de un rectángulo del cual se le
 proporcionará por el teclado su altura y anchura (números decimales).
 
+   SOLUCIÓN:
+![image](https://github.com/user-attachments/assets/8b3c9721-8251-429c-9398-b0b95dae107d)
+
+
 _____________________________________________________________________________________________
 
 PROBLEMA 21: Escribir un programa en Java que lea dos números del teclado y diga cual es el
 mayor y cual el menor.
+
+   SOLUCIÓN:
+
+![image](https://github.com/user-attachments/assets/390a121d-54ee-40b6-a71e-fce5f11cea57)
+
 
 _____________________________________________________________________________________________
 
